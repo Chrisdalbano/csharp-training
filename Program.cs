@@ -13,7 +13,10 @@ namespace CSharpFundamentals
             //ReverseName.runReverseNameProgram();
 
             //Runs the Unique Numbers program
-            UniqueNumbers.runUniqueNumbersProgram();
+            //UniqueNumbers.runUniqueNumbersProgram();
+
+            //Runs the Ask Numbers program
+            AskNumbers.runAskNumbersProgram();
         }
     }
 }
