@@ -10,8 +10,10 @@ namespace CSharpFundamentals
             //Likes.runLikes();
 
             //Runs the Reverse Name program
-            ReverseName.runReverseNameProgram();
+            //ReverseName.runReverseNameProgram();
 
+            //Runs the Unique Numbers program
+            UniqueNumbers.runUniqueNumbersProgram();
         }
     }
 }
