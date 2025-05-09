@@ -7,8 +7,10 @@ namespace CSharpFundamentals
         static void Main(string[] args)
         {
             //Runs the Likes program
-            Likes.runLikes();
+            //Likes.runLikes();
 
+            //Runs the Reverse Name program
+            ReverseName.runReverseNameProgram();
 
         }
     }

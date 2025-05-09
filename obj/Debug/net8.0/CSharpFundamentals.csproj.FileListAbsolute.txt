@@ -12,3 +12,4 @@ C:\Users\chris\OneDrive\Documents\Projects\csharp-projects\HelloWorld\HelloWorld
 C:\Users\chris\OneDrive\Documents\Projects\csharp-projects\HelloWorld\HelloWorld\obj\Debug\net8.0\CSharpFundamentals.pdb
 C:\Users\chris\OneDrive\Documents\Projects\csharp-projects\HelloWorld\HelloWorld\obj\Debug\net8.0\CSharpFundamentals.genruntimeconfig.cache
 C:\Users\chris\OneDrive\Documents\Projects\csharp-projects\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\CSharpFundamentals.dll
+C:\Users\chris\OneDrive\Documents\Projects\csharp-projects\HelloWorld\HelloWorld\obj\Debug\net8.0\CSharpFundamentals.sourcelink.json
